@@ -1,0 +1,15 @@
+# dependencies
+node_modules/
+package-lock.json
+
+# build / render artifacts
+ql_out/
+thumbnails*.jpg
+slide-*.jpg
+*.pdf
+
+# os / editor
+.DS_Store
+*.log
+.vscode/
+.idea/
